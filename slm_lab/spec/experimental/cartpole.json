@@ -1405,7 +1405,7 @@
       "max_trial": 200,
       "search": "RandomSearch",
       "resources": {
-        "num_cpus": 62
+        "num_cpus": 54
       }
     },
     "search": {
